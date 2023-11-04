@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_9EmmQH2kEe6_Z4thVNfFDw">
+  <modelElement href="Taller4_LightsOut_esqueleto.uml#_9D0jIH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Yz7sH2kEe6_Z4thVNfFDw" sourceAnchor="15.0,244.0" targetAnchor="223.0,0.0" target="_9Y2_AH2kEe6_Z4thVNfFDw" source="_9ZMWOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vyc4H2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Yz7sX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzD8H2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Yz7sn2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kfnQH2kEe6_Z4thVNfFDw" position="-29.433014670056565,20.412306287735085"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9Yz7s32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vyc4X2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9keZIH2kEe6_Z4thVNfFDw" position="-18.12591743734251,27.34784005524066"/>
+      <visibility xmi:id="_9Yz7tH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Yz7tX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Yz7tn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="menuPanel" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VapcX2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kgOUH2kEe6_Z4thVNfFDw" position="-51.50061494003566,-9.552187657850666"/>
+      <stereotypes xmi:id="_9Yz7t32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vapcn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Yz7uH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Yz7uX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y0iwH2kEe6_Z4thVNfFDw" source="_9Y2_AH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2uUX2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Y0iwX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2uU32kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y0iwn2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9Y0iw32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2uUn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y0ixH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y0ixX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y0ixn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="nuevo" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VgJAH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y0ix32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y0iyH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y1J0H2kEe6_Z4thVNfFDw" source="_9Y2_AH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V3VYH2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Y1J0X2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V3VYn2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y1J0n2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9Y1J032kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V3VYX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y1J1H2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y1J1X2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y1J1n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="restart" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VgwEX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y1J132kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y1J2H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y1w4H2kEe6_Z4thVNfFDw" source="_9Y2_AH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V3VY32kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Y1w4X2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V38cH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y1w4n2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9Y1w432kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V3VZH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y1w5H2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y1w5X2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y1w5n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="top10" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VhXIX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y1w532kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y1w6H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y2X8H2kEe6_Z4thVNfFDw" source="_9Y2_AH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V38cX2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Y2X8X2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jgH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y2X8n2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9Y2X832kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V38cn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y2X9H2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y2X9X2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y2X9n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="changePlayer" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vh-MH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Y2X932kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2X-H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y2X-X2kEe6_Z4thVNfFDw" sourceAnchor="357.0,0.0" targetAnchor="149.0,244.0" target="_9ZMWOX2kEe6_Z4thVNfFDw" source="_9Y2_AH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jgX2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9Y2X-n2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jg32kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y2X-32kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kZgoH2kEe6_Z4thVNfFDw" position="-29.50906497378304,-41.933312362265234"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9Y2X_H2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jgn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kY5kX2kEe6_Z4thVNfFDw" position="-17.576665243762193,-71.897806307851"/>
+      <visibility xmi:id="_9Y2X_X2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y2X_n2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y2X_32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="mainPanel" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vh-Mn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kaHsH2kEe6_Z4thVNfFDw" position="-50.20051973216499,-35.03580374662292"/>
+      <visibility xmi:id="_9Y2YAH2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2YAX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y9FoH2kEe6_Z4thVNfFDw" sourceAnchor="211.0,244.0" targetAnchor="0.0,100.0" target="_9ZB-KX2kEe6_Z4thVNfFDw" source="_9ZMWOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VxOwX2kEe6_Z4thVNfFDw"/>
+    <bendpoints xmi:id="_9kYSgH2kEe6_Z4thVNfFDw" sourceY="155" targetX="-149"/>
+    <stereotypes xmi:id="_9Y-6032kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vx10H2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y-60H2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kcj8H2kEe6_Z4thVNfFDw" position="-13.046318879895011,-35.50442315217026"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9Y-60X2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VxOwn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kb84H2kEe6_Z4thVNfFDw" position="3.0753598186594786,18.78423306964448"/>
+      <visibility xmi:id="_9Y_h4X2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y_h4H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y-60n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="controls" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VaCYH2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kdLAH2kEe6_Z4thVNfFDw" position="-170.64157063915923,40.745254035213264"/>
+      <stereotypes xmi:id="_9Y_h5H2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VaCYX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y_h432kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Y_h4n2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9Y9FoX2kEe6_Z4thVNfFDw" sourceAnchor="218.0,0.0" targetAnchor="298.0,122.0" target="_9ZMWOX2kEe6_Z4thVNfFDw" source="_9ZB-KX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzrAX2kEe6_Z4thVNfFDw"/>
+    <bendpoints xmi:id="_9kXrcH2kEe6_Z4thVNfFDw" sourceY="-177" targetX="280"/>
+    <stereotypes xmi:id="_9Y-6132kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzrA32kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9Y-61H2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kbV0H2kEe6_Z4thVNfFDw" position="-12.93785365098563,21.319291104864362"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9Y-61X2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzrAn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kauwH2kEe6_Z4thVNfFDw" position="2.5330336741128576,-80.46145138239072"/>
+      <visibility xmi:id="_9Y_h5n2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y_h5X2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Y-61n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="mainPanel" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vb3kn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kbV0X2kEe6_Z4thVNfFDw" position="250.59917275847556,-79.66321574559419"/>
+      <visibility xmi:id="_9Y_h6H2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y_h532kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZAwAH2kEe6_Z4thVNfFDw" source="_9ZB-KX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V0SEH2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZAwAX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V0SEn2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZAwAn2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZAwA32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V0SEX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZAwBH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZAwBX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZAwBn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="sizePicker" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VceoX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZAwB32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZAwCH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZAwCX2kEe6_Z4thVNfFDw" source="_9ZB-KX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V0SE32kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZAwCn2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V05IH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZAwC32kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZAwDH2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V0SFH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZAwDX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZAwDn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZAwD32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="easy" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vceo32kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZAwEH2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZAwEX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZBXEH2kEe6_Z4thVNfFDw" source="_9ZB-KX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V05IX2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZBXEX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V1gMH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZBXEn2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZBXE32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V05In2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZBXFH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZBXFX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZBXFn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="medium" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFsX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZBXF32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZBXGH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZB-IH2kEe6_Z4thVNfFDw" source="_9ZB-KX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V1gMX2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZB-IX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V1gM32kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZB-In2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZB-I32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V1gMn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZB-JH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZB-JX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZB-Jn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="hard" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFs32kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZB-J32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-KH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZKhAH2kEe6_Z4thVNfFDw" sourceAnchor="149.0,0.0" targetAnchor="397.0,133.0" target="_9ZeqEH2kEe6_Z4thVNfFDw" source="_9ZMWOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VwnsH2kEe6_Z4thVNfFDw"/>
+    <bendpoints xmi:id="_9kYSgX2kEe6_Z4thVNfFDw" sourceY="-188" targetX="1066"/>
+    <stereotypes xmi:id="_9ZKhAX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VxOwH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZKhAn2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kiqkH2kEe6_Z4thVNfFDw" position="-24.660779160427694,20.790503292055405"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9ZKhA32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VwnsX2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9khccH2kEe6_Z4thVNfFDw" position="-17.20629930694122,-82.60960482630469"/>
+      <visibility xmi:id="_9ZKhBH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZKhBX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZKhBn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="gamePanel" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VY0QH2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kiqkX2kEe6_Z4thVNfFDw" position="1014.9642177238588,-92.13464486167084"/>
+      <visibility xmi:id="_9ZKhB32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZKhCH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZLIEH2kEe6_Z4thVNfFDw" sourceAnchor="119.0,0.0" targetAnchor="290.0,42.0" target="_9ZWHMH2kEe6_Z4thVNfFDw" source="_9ZMWOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vx10X2kEe6_Z4thVNfFDw"/>
+    <bendpoints xmi:id="_9kYSgn2kEe6_Z4thVNfFDw" sourceY="-96" targetX="182"/>
+    <stereotypes xmi:id="_9ZLIEX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vx1032kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZLIEn2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9klG0H2kEe6_Z4thVNfFDw" position="-29.63228681974931,34.885409575870995"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9ZLIE32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vx10n2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kj4sH2kEe6_Z4thVNfFDw" position="-18.156935975464478,-79.04454981836699"/>
+      <visibility xmi:id="_9ZLIFH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZLIFX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZLIFn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="infoPanel" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VaCYn2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9klG0X2kEe6_Z4thVNfFDw" position="135.23409625450898,10.903247421061508"/>
+      <visibility xmi:id="_9ZLIF32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZLIGH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZMWMH2kEe6_Z4thVNfFDw" sourceAnchor="179.0,0.0" targetAnchor="261.0,155.0" target="_9Z3EkH2kEe6_Z4thVNfFDw" source="_9ZMWOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzD8X2kEe6_Z4thVNfFDw"/>
+    <bendpoints xmi:id="_9kY5kH2kEe6_Z4thVNfFDw" sourceY="-531" targetX="919"/>
+    <stereotypes xmi:id="_9ZMWMX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzrAH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZMWMn2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9km8AH2kEe6_Z4thVNfFDw" position="-27.69988135881505,441.3465923304539"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9ZMWM32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VzD8n2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kmU8H2kEe6_Z4thVNfFDw" position="-18.646188196518892,-77.62985907165972"/>
+      <visibility xmi:id="_9ZMWNH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWNX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZMWNn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="tabla" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vb3kH2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9knjEH2kEe6_Z4thVNfFDw" position="884.8963943035635,405.11259468704486"/>
+      <visibility xmi:id="_9ZMWN32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWOH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZZxkH2kEe6_Z4thVNfFDw" source="_9ZeqEH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V1gNH2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZcN0H2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2HQX2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZbmwH2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZbmwX2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2HQH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZcN1n2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZcN1X2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9Zbmwn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="gameButtons" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdswX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Zc04X2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Zc04H2kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZZxkX2kEe6_Z4thVNfFDw" sourceAnchor="382.0,0.0" targetAnchor="69.0,310.0" target="_9Z3EkH2kEe6_Z4thVNfFDw" source="_9ZeqEH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2HQn2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZcN1H2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2uUH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZcN0X2kEe6_Z4thVNfFDw" text="">
+      <visualProperties xmi:id="_9kpYQH2kEe6_Z4thVNfFDw" position="-29.49296684984813,-76.76761681716414"/>
+    </nameVisual>
+    <sourceRole xmi:id="_9ZcN0n2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V2HQ32kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9koKIH2kEe6_Z4thVNfFDw" position="-18.165696784089278,-72.51259185151343"/>
+      <visibility xmi:id="_9Zc05X2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Zc05H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZcN032kEe6_Z4thVNfFDw" aggregationKind="NONE" name="tabla" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VeT0X2kEe6_Z4thVNfFDw"/>
+      <visualProperties xmi:id="_9kpYQX2kEe6_Z4thVNfFDw" position="-33.870461477103845,-105.20240486720797"/>
+      <visibility xmi:id="_9Zc0532kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Zc05n2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Zl-0X2kEe6_Z4thVNfFDw" targetItem="_9ZppOX2kEe6_Z4thVNfFDw" sourceItem="_9Zl-0H2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Zml4H2kEe6_Z4thVNfFDw" targetItem="_9ZppR32kEe6_Z4thVNfFDw" sourceItem="_9Zl-0n2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Zml4n2kEe6_Z4thVNfFDw" targetItem="_9ZppTX2kEe6_Z4thVNfFDw" sourceItem="_9Zml4X2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Zml5H2kEe6_Z4thVNfFDw" targetItem="_9ZppVX2kEe6_Z4thVNfFDw" sourceItem="_9Zml432kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZnM8X2kEe6_Z4thVNfFDw" targetItem="_9ZppXn2kEe6_Z4thVNfFDw" sourceItem="_9ZnM8H2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZnM832kEe6_Z4thVNfFDw" targetItem="_9ZppZH2kEe6_Z4thVNfFDw" sourceItem="_9ZnM8n2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Zn0AX2kEe6_Z4thVNfFDw" targetItem="_9Zppan2kEe6_Z4thVNfFDw" sourceItem="_9Zn0AH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_9ZppMH2kEe6_Z4thVNfFDw" source="_9ZppOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jhH2kEe6_Z4thVNfFDw"/>
+    <stereotypes xmi:id="_9ZppMX2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V5KkH2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_9ZppMn2kEe6_Z4thVNfFDw" text=""/>
+    <sourceRole xmi:id="_9ZppM32kEe6_Z4thVNfFDw" aggregationKind="NONE" name="">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9V4jhX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZppNH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppNX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_9ZppNn2kEe6_Z4thVNfFDw" aggregationKind="NONE" name="registros" navigable="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VkacH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZppN32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZppOH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZyzIX2kEe6_Z4thVNfFDw" targetItem="_9Z3EkH2kEe6_Z4thVNfFDw" sourceItem="_9ZyzIH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZzaMX2kEe6_Z4thVNfFDw" targetItem="_9Z3EpH2kEe6_Z4thVNfFDw" sourceItem="_9ZzaMH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZzaM32kEe6_Z4thVNfFDw" targetItem="_9Z3ErX2kEe6_Z4thVNfFDw" sourceItem="_9ZzaMn2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9ZzaNX2kEe6_Z4thVNfFDw" targetItem="_9Z3EsH2kEe6_Z4thVNfFDw" sourceItem="_9ZzaNH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z0BQH2kEe6_Z4thVNfFDw" targetItem="_9Z3Es32kEe6_Z4thVNfFDw" sourceItem="_9ZzaNn2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z0BQn2kEe6_Z4thVNfFDw" targetItem="_9Z3EuX2kEe6_Z4thVNfFDw" sourceItem="_9Z0BQX2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z0BRH2kEe6_Z4thVNfFDw" targetItem="_9Z3Evn2kEe6_Z4thVNfFDw" sourceItem="_9Z0BQ32kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z0oUX2kEe6_Z4thVNfFDw" targetItem="_9Z3ExH2kEe6_Z4thVNfFDw" sourceItem="_9Z0oUH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z0oU32kEe6_Z4thVNfFDw" targetItem="_9Z3EzX2kEe6_Z4thVNfFDw" sourceItem="_9Z0oUn2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z1PYX2kEe6_Z4thVNfFDw" targetItem="_9Z3E0n2kEe6_Z4thVNfFDw" sourceItem="_9Z1PYH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z-ZUX2kEe6_Z4thVNfFDw" targetItem="_9Z_nfX2kEe6_Z4thVNfFDw" sourceItem="_9Z-ZUH2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z-ZU32kEe6_Z4thVNfFDw" targetItem="_9Z_niX2kEe6_Z4thVNfFDw" sourceItem="_9Z-ZUn2kEe6_Z4thVNfFDw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_9Z_AYX2kEe6_Z4thVNfFDw" targetItem="_9Z_njn2kEe6_Z4thVNfFDw" sourceItem="_9Z_AYH2kEe6_Z4thVNfFDw"/>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Zl-0H2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Zl-0X2kEe6_Z4thVNfFDw" text="Esta clase sirve para representar la lista de los records que se encuentran&#xA;en el Top10.&#xA;&#xA;Esta clase utiliza una cola de prioridades para mantener los records&#xA;ordenados, y usa un Comparator para decidir el orden relativo entre records.&#xA;&#xA;No es una implementación particularmente eficiente (sería más eficiente haber&#xA;usado una lista) pero permite ilustrar el uso de otras clases del framework&#xA;de colecciones y demostrar el uso de comparadores.&#xA;&#xA;Esta clase también incluye mecanismos de persistencia sobre archivos CSV" item="_9ZppOX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9Vn2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Zl-0n2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Zml4H2kEe6_Z4thVNfFDw" text="Construye un nuevo Top10 donde todas las posiciones empiezan ocupadas con un&#xA;&#x9; * registro de 0 puntos." item="_9ZppR32kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9V32kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Zml4X2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Zml4n2kEe6_Z4thVNfFDw" text="Indica si el puntaje indicado es suficiente para entrar al top10&#xA;&#x9; * &#xA;&#x9; * @param puntaje El puntaje que se va a revisar&#xA;&#x9; * @return True si el puntaje debería estar en el top10" item="_9ZppTX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9WH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Zml432kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Zml5H2kEe6_Z4thVNfFDw" text="Agrega un nuevo registro al top10, en la posición correcta de acuerdo a la&#xA;&#x9; * cantidad de puntos.&#xA;&#x9; * &#xA;&#x9; * @param nombre  El nombre que debe quedar asociado al nuevo puntaje&#xA;&#x9; * @param puntaje El puntaje que va a entrar al top10" item="_9ZppVX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9WX2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZnM8H2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZnM8X2kEe6_Z4thVNfFDw" text="Retorna los registros de una manera en la que se puedan recorrer pero no&#xA;&#x9; * modificar&#xA;&#x9; * &#xA;&#x9; * @return Los registros del top 10, vistos como una colección." item="_9ZppXn2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9Wn2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZnM8n2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZnM832kEe6_Z4thVNfFDw" text="Salva los registros del top 10 en un archivo de texto UTF-8 y usando el&#xA;&#x9; * siguiente formato:&#xA;&#x9; * &#xA;&#x9; * - En cada línea aparece un registro&#xA;&#x9; * &#xA;&#x9; * - Cada registro tiene el nombre y los puntos separados por el caracter ';'&#xA;&#x9; * &#xA;&#x9; * @param archivo El archivo donde se debe almacenar la información&#xA;&#x9; * @throws FileNotFoundException        Esta excepción se lanza si hay problemas&#xA;&#x9; *                                      creando el archivo&#xA;&#x9; * @throws UnsupportedEncodingException Esta excepción se lanza si por algún&#xA;&#x9; *                                      motivo no puede usarse el encoding utf-8&#xA;&#x9; *                                      para guardar la información dentro del&#xA;&#x9; *                                      archivo." item="_9ZppZH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9W32kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Zn0AH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Zn0AX2kEe6_Z4thVNfFDw" text="Carga la información de los records a partir de un archivo de texto que debe&#xA;&#x9; * estar en el siguiente formato:&#xA;&#x9; * &#xA;&#x9; * - En cada línea aparece un registro&#xA;&#x9; * &#xA;&#x9; * - Cada registro tiene el nombre y los puntos separados por el caracter ';'&#xA;&#x9; * &#xA;&#x9; * @param archivo El archivo donde se encuentra almacenada la información de los&#xA;&#x9; *                records. Si el archivo no existe no se hace nada pero no se&#xA;&#x9; *                produce un error." item="_9Zppan2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9XH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZyzIH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZyzIX2kEe6_Z4thVNfFDw" text="Esta clase sirve para representar un tablero del juego LightsOut.&#xA;&#xA;El juego gira alrededor de un tablero cuadrado con luces que pueden estar&#xA;prendidas o apagadas. En cada jugada, el jugador selecciona una luz y esta&#xA;cambia de estado (de prendida a apagada y viceversa). Lo mismo sucede con las&#xA;8 luces vecinas a la luz seleccionada por el jugador.&#xA; *&#xA;El objetivo del juego es lograr que todas las luces estén prendidas, en la&#xA;menor cantidad de jugadas posibles." item="_9Z3EkH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VsWQX2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZzaMH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZzaMX2kEe6_Z4thVNfFDw" text="Crea un nuevo tablero del tamaño indicado. El tablero se crea con tamano x&#xA;&#x9; * tamano casillas prendidas.&#xA;&#x9; * &#xA;&#x9; * La cantidad de jugadas se inicializa en 0.&#xA;&#x9; * &#xA;&#x9; * @param tamano El ancho y alto del tablero" item="_9Z3EpH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VsWQn2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZzaMn2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZzaM32kEe6_Z4thVNfFDw" text="Reinicia el tablero para que las casillas tengan los valores almacenados en&#xA;&#x9; * tablero_original.&#xA;&#x9; * &#xA;&#x9; * Deja la cantidad de jugadas con valor 0." item="_9Z3ErX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VsWQ32kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZzaNH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9ZzaNX2kEe6_Z4thVNfFDw" text="Copia el tablero actual sobre la matriz tablero_original" item="_9Z3EsH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VsWRH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9ZzaNn2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z0BQH2kEe6_Z4thVNfFDw" text="Desordena el tablero realizando una serie de jugadas sobre posiciones&#xA;&#x9; * aleatorias. Si antes de ejecutar este método el tablero estaba todo&#xA;&#x9; * iluminado, esto garantiza que se vaya a poder resolver después.&#xA;&#x9; * &#xA;&#x9; * El número de jugadas realizadas se mantiene constante&#xA;&#x9; * &#xA;&#x9; * @param dificultad La cantidad de jugadas aleatorias que se deben hacer." item="_9Z3Es32kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9UH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z0BQX2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z0BQn2kEe6_Z4thVNfFDw" text="Retorna la cantidad de jugadas que se han hecho hasta el momento&#xA;&#x9; * &#xA;&#x9; * @return jugadas" item="_9Z3EuX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9UX2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z0BQ32kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z0BRH2kEe6_Z4thVNfFDw" text="Retorna el tablero completo en su estado actual&#xA;&#x9; * &#xA;&#x9; * @return tablero" item="_9Z3Evn2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9Un2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z0oUH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z0oUX2kEe6_Z4thVNfFDw" text="Cambia el estado de una casilla y el estado de las casillas que la rodean:&#xA;&#x9; * las iluminadas se apagan y viceversa. Incrementa en 1 el número de jugadas&#xA;&#x9; * realizadas hasta el momento.&#xA;&#x9; * &#xA;&#x9; * @param fila    La fila de la casilla, contando desde 0&#xA;&#x9; * @param columna La columna de la casilla, contando desde 0" item="_9Z3ExH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9U32kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z0oUn2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z0oU32kEe6_Z4thVNfFDw" text="Informa si todas las casillas del tablero están iluminadas&#xA;&#x9; * &#xA;&#x9; * @return" item="_9Z3EzX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9VH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z1PYH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z1PYX2kEe6_Z4thVNfFDw" text="Calcula la cantidad de puntos que obtuvo el jugador&#xA;&#x9; * &#xA;&#x9; * @return Una cantidad de puntos que depende del tamaño del tablero y de la&#xA;&#x9; *         cantidad de jugadas que fueron necesarias" item="_9Z3E0n2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vs9VX2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z-ZUH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z-ZUX2kEe6_Z4thVNfFDw" text="Crea un nuevo registro y modifica el nombre para que cumpla con las&#xA;&#x9; * siguientes reglas:&#xA;&#x9; * &#xA;&#x9; * - Debe tener sólo tres caracteres&#xA;&#x9; * &#xA;&#x9; * - No puede incluir el caracter ';'&#xA;&#x9; * &#xA;&#x9; * - Las letras deben estar en mayúsculas&#xA;&#x9; * &#xA;&#x9; * @param nombre El nombre para el registro&#xA;&#x9; * @param puntos La cantidad de puntos" item="_9Z_nfX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VrvMH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z-ZUn2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z-ZU32kEe6_Z4thVNfFDw" text="Retorna la cantidad de puntos&#xA;&#x9; * &#xA;&#x9; * @return puntos" item="_9Z_niX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VrvMX2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_9Z_AYH2kEe6_Z4thVNfFDw" sourceConnectionVisual="_9Z_AYX2kEe6_Z4thVNfFDw" text="Retorna el nombre&#xA;&#x9; * &#xA;&#x9; * @return nombre" item="_9Z_njn2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VsWQH2kEe6_Z4thVNfFDw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9Y2_AH2kEe6_Z4thVNfFDw" name="PanelMenu" associationsIn="_9Yz7sH2kEe6_Z4thVNfFDw" associationsOut="_9Y0iwH2kEe6_Z4thVNfFDw _9Y1J0H2kEe6_Z4thVNfFDw _9Y1w4H2kEe6_Z4thVNfFDw _9Y2X8H2kEe6_Z4thVNfFDw _9Y2X-X2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sc1AH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9Y2_AX2kEe6_Z4thVNfFDw" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9Y2_An2kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9Y2_A32kEe6_Z4thVNfFDw" name="nuevo">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VgJAH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_BH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VgwEH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_BX2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2_Bn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Y2_B32kEe6_Z4thVNfFDw" name="JButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Y2_CH2kEe6_Z4thVNfFDw" name="restart">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VgwEX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_CX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VhXIH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_Cn2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2_C32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Y2_DH2kEe6_Z4thVNfFDw" name="JButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Y2_DX2kEe6_Z4thVNfFDw" name="top10">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VhXIX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_Dn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VhXIn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_D32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2_EH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Y2_EX2kEe6_Z4thVNfFDw" name="JButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Y2_En2kEe6_Z4thVNfFDw" name="changePlayer">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vh-MH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_E32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vh-MX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_FH2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2_FX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Y2_Fn2kEe6_Z4thVNfFDw" name="JButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Y2_F32kEe6_Z4thVNfFDw" name="mainPanel">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vh-Mn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_GH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilQH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_GX2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9Y2_Gn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Y2_G32kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9Y2_HH2kEe6_Z4thVNfFDw" name="PanelMenu">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VBn4H2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9Y2_HX2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9Y2_Hn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y2_H32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Y2_IH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VBn5H2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Y2_IX2kEe6_Z4thVNfFDw" name="PanelMenu">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sc1AH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9Y2_In2kEe6_Z4thVNfFDw" name="mainPanel">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VBn4X2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Y2_I32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Y2_JH2kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Y2_JX2kEe6_Z4thVNfFDw" name="actionPerformed">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VVJ4H2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Y2_Jn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VVJ4n2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9Y2_J32kEe6_Z4thVNfFDw" name="Annotations">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VVw8H2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Y2_KH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Y2_KX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9Y2_Kn2kEe6_Z4thVNfFDw" name="e">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VVJ4X2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Y2_K32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Y2_LH2kEe6_Z4thVNfFDw" name="ActionEvent">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9UxwQX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZB-KX2kEe6_Z4thVNfFDw" name="PanelControls" associationsIn="_9Y9FoH2kEe6_Z4thVNfFDw" associationsOut="_9Y9FoX2kEe6_Z4thVNfFDw _9ZAwAH2kEe6_Z4thVNfFDw _9ZAwCX2kEe6_Z4thVNfFDw _9ZBXEH2kEe6_Z4thVNfFDw _9ZB-IH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SR14H2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZB-Kn2kEe6_Z4thVNfFDw" position="598.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9ZB-K32kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9ZB-LH2kEe6_Z4thVNfFDw" name="mainPanel">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vb3kn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-LX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VceoH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-Ln2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-L32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZB-MH2kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZB-MX2kEe6_Z4thVNfFDw" name="sizePicker">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VceoX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-Mn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vceon2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-M32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-NH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZB-NX2kEe6_Z4thVNfFDw" name="JComboBox">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2owX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZB-Nn2kEe6_Z4thVNfFDw" name="easy">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vceo32kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-N32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFsH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-OH2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-OX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZB-On2kEe6_Z4thVNfFDw" name="JRadioButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U5sEX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZB-O32kEe6_Z4thVNfFDw" name="medium">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFsX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-PH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFsn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-PX2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-Pn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZB-P32kEe6_Z4thVNfFDw" name="JRadioButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U5sEX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZB-QH2kEe6_Z4thVNfFDw" name="hard">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdFs32kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-QX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdswH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-Qn2kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZB-Q32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZB-RH2kEe6_Z4thVNfFDw" name="JRadioButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U5sEX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9ZB-RX2kEe6_Z4thVNfFDw" name="getSizeTable">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9STEAH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZB-Rn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZB-R32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZB-SH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9STEAX2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZB-SX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9ZB-Sn2kEe6_Z4thVNfFDw" name="PanelControls">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U7hQH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZB-S32kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9ZB-TH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZB-TX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZB-Tn2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U8IU32kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZB-T32kEe6_Z4thVNfFDw" name="PanelControls">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SR14H2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9ZB-UH2kEe6_Z4thVNfFDw" name="mainPanel">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U8IUH2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZB-UX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZB-Un2kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZB-U32kEe6_Z4thVNfFDw" name="actionPerformed">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VPqUH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZB-VH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VPqUn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9ZB-VX2kEe6_Z4thVNfFDw" name="Annotations">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VQRYH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZB-Vn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZB-V32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZB-WH2kEe6_Z4thVNfFDw" name="e">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VPqUX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZB-WX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZB-Wn2kEe6_Z4thVNfFDw" name="ActionEvent">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9UxwQX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZMWOX2kEe6_Z4thVNfFDw" name="InterfazLightsOut" associationsIn="_9Y9FoX2kEe6_Z4thVNfFDw _9Y2X-X2kEe6_Z4thVNfFDw" associationsOut="_9Y9FoH2kEe6_Z4thVNfFDw _9Yz7sH2kEe6_Z4thVNfFDw _9ZKhAH2kEe6_Z4thVNfFDw _9ZLIEH2kEe6_Z4thVNfFDw _9ZMWMH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZMWOn2kEe6_Z4thVNfFDw" position="238.0,-269.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9ZMWO32kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9ZMWPH2kEe6_Z4thVNfFDw" name="gamePanel">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VY0QH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZMWPX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VZbUH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZMWPn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWP32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWQH2kEe6_Z4thVNfFDw" name="PanelJuego">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SX8gH2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWQX2kEe6_Z4thVNfFDw" name="controls">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VaCYH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWQn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWQ32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWRH2kEe6_Z4thVNfFDw" name="PanelControls">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SR14H2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWRX2kEe6_Z4thVNfFDw" name="infoPanel">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VaCYn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZMWRn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VapcH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZMWR32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWSH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWSX2kEe6_Z4thVNfFDw" name="PanelInfo">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SWHUH2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWSn2kEe6_Z4thVNfFDw" name="menuPanel">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VapcX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWS32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWTH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWTX2kEe6_Z4thVNfFDw" name="PanelMenu">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sc1AH2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWTn2kEe6_Z4thVNfFDw" name="size">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VbQgH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZMWT32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VbQgX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZMWUH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWUX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWUn2kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWU32kEe6_Z4thVNfFDw" name="difficulty">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VbQgn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZMWVH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VbQg32kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZMWVX2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWVn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWV32kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZMWWH2kEe6_Z4thVNfFDw" name="tabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vb3kH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZMWWX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vb3kX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZMWWn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZMWW32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZMWXH2kEe6_Z4thVNfFDw" name="Tablero">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9ZMWXX2kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SM9YH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZMWXn2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9ZMWX32kEe6_Z4thVNfFDw" label="~"/>
+      <cardinality xmi:id="_9ZMWYH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZMWYX2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SM9Y32kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZMWYn2kEe6_Z4thVNfFDw" name="InterfazLightsOut">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SKhIH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9ZMWY32kEe6_Z4thVNfFDw" name="pintarTabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SNkcH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWZH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWZX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9ZMWZn2kEe6_Z4thVNfFDw" name="updateTabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SNkcX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWZ32kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWaH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9ZMWaX2kEe6_Z4thVNfFDw" name="restartTabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SNkcn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWan2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWa32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9ZMWbH2kEe6_Z4thVNfFDw" name="changeSize">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOLgH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWbX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWbn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZMWb32kEe6_Z4thVNfFDw" name="tam">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOLgX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZMWcH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZMWcX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZMWcn2kEe6_Z4thVNfFDw" name="changeDifficulty">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOLgn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWc32kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWdH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZMWdX2kEe6_Z4thVNfFDw" name="diff">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOLg32kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZMWdn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZMWd32kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZMWeH2kEe6_Z4thVNfFDw" name="main" staticOperation="true">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOykH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZMWeX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZMWen2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZMWe32kEe6_Z4thVNfFDw" name="args">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SOykX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZMWfH2kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_9ZMWfX2kEe6_Z4thVNfFDw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZWHMH2kEe6_Z4thVNfFDw" name="PanelInfo" associationsIn="_9ZLIEH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SWHUH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZWHMX2kEe6_Z4thVNfFDw" position="-115.0,-407.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9ZWHMn2kEe6_Z4thVNfFDw" label="+"/>
+    <operations xmi:id="_9ZWHM32kEe6_Z4thVNfFDw" name="PanelInfo">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SWuYH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZWHNH2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9ZWHNX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZWHNn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZWHN32kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SWuY32kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZWHOH2kEe6_Z4thVNfFDw" name="PanelInfo">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SWHUH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9ZWHOX2kEe6_Z4thVNfFDw" name="actionPerformed">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VRfgH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZWHOn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VRfgn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9ZWHO32kEe6_Z4thVNfFDw" name="Annotations">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VSGkH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZWHPH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZWHPX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZWHPn2kEe6_Z4thVNfFDw" name="e">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VRfgX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZWHP32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZWHQH2kEe6_Z4thVNfFDw" name="ActionEvent">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9UxwQX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZeqEH2kEe6_Z4thVNfFDw" name="PanelJuego" associationsIn="_9ZKhAH2kEe6_Z4thVNfFDw" associationsOut="_9ZZxkH2kEe6_Z4thVNfFDw _9ZZxkX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SX8gH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZeqEX2kEe6_Z4thVNfFDw" position="-1076.0,-590.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9ZeqEn2kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9ZeqE32kEe6_Z4thVNfFDw" name="gameButtons">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VdswX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqFH2kEe6_Z4thVNfFDw" name="Array">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vdsw32kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9ZeqFX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VeT0H2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqFn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqF32kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_9ZeqGH2kEe6_Z4thVNfFDw" name="JButton">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZeqGX2kEe6_Z4thVNfFDw" name="tabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VeT0X2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqGn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VeT0n2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqG32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqHH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZeqHX2kEe6_Z4thVNfFDw" name="Tablero">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZeqHn2kEe6_Z4thVNfFDw" name="dificultad">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VeT032kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqH32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ve64H2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqIH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqIX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZeqIn2kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZeqI32kEe6_Z4thVNfFDw" name="height">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ve64X2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqJH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ve64n2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqJX2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqJn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZeqJ32kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZeqKH2kEe6_Z4thVNfFDw" name="width">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ve6432kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqKX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Vfh8H2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqKn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqK32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZeqLH2kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9ZeqLX2kEe6_Z4thVNfFDw" name="isWon">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SZxsH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZeqLn2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqL32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9ZeqMH2kEe6_Z4thVNfFDw" name="PanelJuego">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U99gH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZeqMX2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9ZeqMn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZeqM32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZeqNH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-klH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZeqNX2kEe6_Z4thVNfFDw" name="PanelJuego">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SX8gH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9ZeqNn2kEe6_Z4thVNfFDw" name="tabla">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-kkH2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqN32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqOH2kEe6_Z4thVNfFDw" name="Tablero">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_9ZeqOX2kEe6_Z4thVNfFDw" name="dificultad">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-kkX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqOn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqO32kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZeqPH2kEe6_Z4thVNfFDw" name="pintarTabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-klX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZeqPX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZeqPn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZeqP32kEe6_Z4thVNfFDw" name="tabla">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-kln2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqQH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqQX2kEe6_Z4thVNfFDw" name="Tablero">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_9ZeqQn2kEe6_Z4thVNfFDw" name="dificultad">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U-kl32kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqQ32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqRH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZeqRX2kEe6_Z4thVNfFDw" name="updateTabla">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U_LoH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZeqRn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZeqR32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZeqSH2kEe6_Z4thVNfFDw" name="tabla">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U_LoX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqSX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqSn2kEe6_Z4thVNfFDw" name="Tablero">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZeqS32kEe6_Z4thVNfFDw" name="backgroundColor">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VTUsH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZeqTH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZeqTX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZeqTn2kEe6_Z4thVNfFDw" name="b">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VTUsX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqT32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqUH2kEe6_Z4thVNfFDw" name="JButton">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9U2BsX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZeqUX2kEe6_Z4thVNfFDw" name="actionPerformed">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VTUsn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZeqUn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VTUtH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9ZeqU32kEe6_Z4thVNfFDw" name="Annotations">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VT7wH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZeqVH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZeqVX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZeqVn2kEe6_Z4thVNfFDw" name="e">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VTUs32kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZeqV32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZeqWH2kEe6_Z4thVNfFDw" name="ActionEvent">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9UxwQX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZppOX2kEe6_Z4thVNfFDw" comments="_9Zl-0H2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Zl-0X2kEe6_Z4thVNfFDw" name="Top10" associationsOut="_9ZppMH2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SqQYH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZppOn2kEe6_Z4thVNfFDw" position="-567.0,367.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9ZppO32kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9ZppPH2kEe6_Z4thVNfFDw" name="registros">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VkacH2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZppPX2kEe6_Z4thVNfFDw" name="Generics">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VkacX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9ZppPn2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VlBgH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZppP32kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZppQH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZppQX2kEe6_Z4thVNfFDw" name="PriorityQueue">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VKKwX2kEe6_Z4thVNfFDw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9ZppQn2kEe6_Z4thVNfFDw" name="peorPuntaje">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VlBgX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9ZppQ32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VlBgn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9ZppRH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9ZppRX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9ZppRn2kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9ZppR32kEe6_Z4thVNfFDw" comments="_9Zl-0n2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Zml4H2kEe6_Z4thVNfFDw" name="Top10">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SregH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZppSH2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9ZppSX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppSn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZppS32kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sreg32kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZppTH2kEe6_Z4thVNfFDw" name="Top10">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SqQYH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9ZppTX2kEe6_Z4thVNfFDw" comments="_9Zml4X2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Zml4n2kEe6_Z4thVNfFDw" name="esTop10">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SsFkH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZppTn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppT32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9ZppUH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SsFkn2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZppUX2kEe6_Z4thVNfFDw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9ZppUn2kEe6_Z4thVNfFDw" name="puntaje">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SsFkX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZppU32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZppVH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZppVX2kEe6_Z4thVNfFDw" comments="_9Zml432kEe6_Z4thVNfFDw" targetConnectionVisual="_9Zml5H2kEe6_Z4thVNfFDw" name="agregarRegistro">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SssoH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZppVn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppV32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZppWH2kEe6_Z4thVNfFDw" name="nombre">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SssoX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZppWX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZppWn2kEe6_Z4thVNfFDw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_9ZppW32kEe6_Z4thVNfFDw" name="puntaje">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ssson2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZppXH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZppXX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9ZppXn2kEe6_Z4thVNfFDw" comments="_9ZnM8H2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZnM8X2kEe6_Z4thVNfFDw" name="darRegistros">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Ssso32kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9ZppX32kEe6_Z4thVNfFDw" keyword="generic_container"/>
+      <visibility xmi:id="_9ZppYH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppYX2kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_9ZppYn2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9StTsH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9ZppY32kEe6_Z4thVNfFDw" name="RegistroTop10">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9ShGcH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9ZppZH2kEe6_Z4thVNfFDw" comments="_9ZnM8n2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZnM832kEe6_Z4thVNfFDw" name="salvarRecords">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VXmIH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9ZppZX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppZn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZppZ32kEe6_Z4thVNfFDw" name="archivo">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VXmIX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9ZppaH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9ZppaX2kEe6_Z4thVNfFDw" name="File">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Uy-YX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Zppan2kEe6_Z4thVNfFDw" comments="_9Zn0AH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Zn0AX2kEe6_Z4thVNfFDw" name="cargarRecords">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VXmIn2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Zppa32kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9ZppbH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9ZppbX2kEe6_Z4thVNfFDw" name="archivo">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VXmI32kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Zppbn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Zppb32kEe6_Z4thVNfFDw" name="File">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Uy-YX2kEe6_Z4thVNfFDw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9Z3EkH2kEe6_Z4thVNfFDw" comments="_9ZyzIH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZyzIX2kEe6_Z4thVNfFDw" name="Tablero" associationsIn="_9ZMWMH2kEe6_Z4thVNfFDw _9ZZxkX2kEe6_Z4thVNfFDw">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9Z3EkX2kEe6_Z4thVNfFDw" position="-763.0,-955.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9Z3Ekn2kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9Z3Ek32kEe6_Z4thVNfFDw" name="tablero">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilRX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z3ElH2kEe6_Z4thVNfFDw" name="Array">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjMUH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9Z3ElX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjMUX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z3Eln2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Z3El32kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_9Z3EmH2kEe6_Z4thVNfFDw" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Z3EmX2kEe6_Z4thVNfFDw" name="tablero_original">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjMUn2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z3Emn2kEe6_Z4thVNfFDw" name="Array">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjMVH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9Z3Em32kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjzYH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z3EnH2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Z3EnX2kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_9Z3Enn2kEe6_Z4thVNfFDw" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Z3En32kEe6_Z4thVNfFDw" name="jugadas">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjzYX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z3EoH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VjzYn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z3EoX2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Z3Eon2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Z3Eo32kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9Z3EpH2kEe6_Z4thVNfFDw" comments="_9ZzaMH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZzaMX2kEe6_Z4thVNfFDw" name="Tablero">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sl-8H2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9Z3EpX2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9Z3Epn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Ep32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z3EqH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SmmA32kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z3EqX2kEe6_Z4thVNfFDw" name="Tablero">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SlX4H2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9Z3Eqn2kEe6_Z4thVNfFDw" name="tamano">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SmmAH2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z3Eq32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z3ErH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Z3ErX2kEe6_Z4thVNfFDw" comments="_9ZzaMn2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZzaM32kEe6_Z4thVNfFDw" name="reiniciar">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SmmBH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3Ern2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Er32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9Z3EsH2kEe6_Z4thVNfFDw" comments="_9ZzaNH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9ZzaNX2kEe6_Z4thVNfFDw" name="salvar_tablero">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SnNEH2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3EsX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Esn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_9Z3Es32kEe6_Z4thVNfFDw" comments="_9ZzaNn2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z0BQH2kEe6_Z4thVNfFDw" name="desordenar">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SnNEX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3EtH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3EtX2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9Z3Etn2kEe6_Z4thVNfFDw" name="dificultad">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SnNEn2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z3Et32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z3EuH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Z3EuX2kEe6_Z4thVNfFDw" comments="_9Z0BQX2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z0BQn2kEe6_Z4thVNfFDw" name="darJugadas">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SnNE32kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3Eun2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Eu32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z3EvH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sn0IH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z3EvX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9Z3Evn2kEe6_Z4thVNfFDw" comments="_9Z0BQ32kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z0BRH2kEe6_Z4thVNfFDw" name="darTablero">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sn0IX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z3Ev32kEe6_Z4thVNfFDw" name="Array">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SobMH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z3EwH2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3EwX2kEe6_Z4thVNfFDw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_9Z3Ewn2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sn0In2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z3Ew32kEe6_Z4thVNfFDw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9Z3ExH2kEe6_Z4thVNfFDw" comments="_9Z0oUH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z0oUX2kEe6_Z4thVNfFDw" name="jugar">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SobMX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3ExX2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Exn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_9Z3Ex32kEe6_Z4thVNfFDw" name="fila">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SobMn2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z3EyH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z3EyX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_9Z3Eyn2kEe6_Z4thVNfFDw" name="columna">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SpCQH2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z3Ey32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z3EzH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Z3EzX2kEe6_Z4thVNfFDw" comments="_9Z0oUn2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z0oU32kEe6_Z4thVNfFDw" name="tableroIluminado">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SpCQX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3Ezn2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3Ez32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z3E0H2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SpCQn2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z3E0X2kEe6_Z4thVNfFDw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9Z3E0n2kEe6_Z4thVNfFDw" comments="_9Z1PYH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z1PYX2kEe6_Z4thVNfFDw" name="calcularPuntaje">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SpCQ32kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z3E032kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z3E1H2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z3E1X2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SppUH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z3E1n2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9Z_ncH2kEe6_Z4thVNfFDw" name="RegistroTop10">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9ShGcH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9Z_ncX2kEe6_Z4thVNfFDw" position="-1091.0,379.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9Z_ncn2kEe6_Z4thVNfFDw" label="+"/>
+    <attributes xmi:id="_9Z_nc32kEe6_Z4thVNfFDw" name="nombre">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilQX2kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z_ndH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilQn2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z_ndX2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Z_ndn2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Z_nd32kEe6_Z4thVNfFDw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_9Z_neH2kEe6_Z4thVNfFDw" name="puntos">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilQ32kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z_neX2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VilRH2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z_nen2kEe6_Z4thVNfFDw" label="-"/>
+      <cardinality xmi:id="_9Z_ne32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <type xmi:id="_9Z_nfH2kEe6_Z4thVNfFDw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_9Z_nfX2kEe6_Z4thVNfFDw" comments="_9Z-ZUH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z-ZUX2kEe6_Z4thVNfFDw" name="RegistroTop10">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SiUkH2kEe6_Z4thVNfFDw"/>
+      <keywords xmi:id="_9Z_nfn2kEe6_Z4thVNfFDw" keyword="create"/>
+      <visibility xmi:id="_9Z_nf32kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z_ngH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z_ngX2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Si7on2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z_ngn2kEe6_Z4thVNfFDw" name="RegistroTop10">
+          <modelElement href="Taller4_LightsOut_esqueleto.uml#_9ShGcH2kEe6_Z4thVNfFDw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_9Z_ng32kEe6_Z4thVNfFDw" name="nombre">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SiUkX2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z_nhH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z_nhX2kEe6_Z4thVNfFDw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_9Z_nhn2kEe6_Z4thVNfFDw" name="puntos">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SiUkn2kEe6_Z4thVNfFDw"/>
+        <cardinality xmi:id="_9Z_nh32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+        <type xmi:id="_9Z_niH2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_9Z_niX2kEe6_Z4thVNfFDw" comments="_9Z-ZUn2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z-ZU32kEe6_Z4thVNfFDw" name="darPuntos">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Si7o32kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z_nin2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z_ni32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z_njH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SjisH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z_njX2kEe6_Z4thVNfFDw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9Z_njn2kEe6_Z4thVNfFDw" comments="_9Z_AYH2kEe6_Z4thVNfFDw" targetConnectionVisual="_9Z_AYX2kEe6_Z4thVNfFDw" name="darNombre">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SjisX2kEe6_Z4thVNfFDw"/>
+      <visibility xmi:id="_9Z_nj32kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z_nkH2kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z_nkX2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sjisn2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z_nkn2kEe6_Z4thVNfFDw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_9Z_nk32kEe6_Z4thVNfFDw" name="toString">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Sjis32kEe6_Z4thVNfFDw"/>
+      <stereotypes xmi:id="_9Z_nlH2kEe6_Z4thVNfFDw" name="LegacyStyledElement">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SkJwX2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_9Z_nlX2kEe6_Z4thVNfFDw" name="Annotations">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9Skw0H2kEe6_Z4thVNfFDw"/>
+      </stereotypes>
+      <visibility xmi:id="_9Z_nln2kEe6_Z4thVNfFDw" label="+"/>
+      <cardinality xmi:id="_9Z_nl32kEe6_Z4thVNfFDw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_9Z_nmH2kEe6_Z4thVNfFDw">
+        <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SkJwH2kEe6_Z4thVNfFDw"/>
+        <type xmi:id="_9Z_nmX2kEe6_Z4thVNfFDw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9Y73gH2kEe6_Z4thVNfFDw" name="PanelTop10">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9SgfYH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9Y73gX2kEe6_Z4thVNfFDw" position="-433.0,238.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_9Y73gn2kEe6_Z4thVNfFDw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9Zw98H2kEe6_Z4thVNfFDw" name="UnsupportedEncodingException">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VI8oH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9Zw98X2kEe6_Z4thVNfFDw" position="-272.0,236.0" size="-1.0,-1.0" visible="false"/>
+    <stereotypes xmi:id="_9Zw98n2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VI8oX2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <visibility xmi:id="_9Zw9832kEe6_Z4thVNfFDw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9ZvIwH2kEe6_Z4thVNfFDw" name="FileNotFoundException">
+    <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VErMH2kEe6_Z4thVNfFDw"/>
+    <visualProperties xmi:id="_9ZvIwX2kEe6_Z4thVNfFDw" position="-658.0,251.0" size="-1.0,-1.0" visible="false"/>
+    <stereotypes xmi:id="_9ZvIwn2kEe6_Z4thVNfFDw" name="Reference">
+      <modelElement href="Taller4_LightsOut_esqueleto.uml#_9VErMX2kEe6_Z4thVNfFDw"/>
+    </stereotypes>
+    <visibility xmi:id="_9ZvIw32kEe6_Z4thVNfFDw" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
